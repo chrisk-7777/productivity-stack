@@ -1,6 +1,6 @@
 # Productivity stack
 
-## Email and storage
+## Email and team storage
 
 | AU             | Gmail - Business starter | Proton Plus | Proton Unlimited | Proton Business | MXRoute   | MXRoute - Lifetime |
 | -------------- | ------------------------ | ----------- | ---------------- | --------------- | --------- | ------------------ |
@@ -9,7 +9,8 @@
 | Services       | Meet, Docs, Sheets       | VPN, Pass   | VPN, Pass        | VPN, Pass       | NA        | NA                 |
 | Custom domains | Unlimited                | 1           | 3                | 10              | Unlimited | Unlimited          |
 
-Proton price assumes 3Y plan
+Proton price assumes 3Y plan  
+All prices AUD (converted July 2023)
 
 ### Proton unknowns
  - Can 500GB be shared among on business account?
@@ -20,4 +21,27 @@ Proton price assumes 3Y plan
  - No local sync app (yet)
  - No docs/sheets tool
  - Can't share Pass vaults (yet)
+
+
+## Transactional email 
+
+Postmark
+SES
+
+
+## Domains
+
+VentraIP
+
+ - Excellent TLD coverage. Better tham Cloudflare and Route53 for Australian domains
+ - Aussie owned with great support
+
+
+## DNS
+
+Cloudflare 
+
+ - Free plan is enough for basic sites
+ - Included SSL
+
 
